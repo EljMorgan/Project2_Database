@@ -1,30 +1,32 @@
+** Project-2 Data collecting and storage **
+
 We want to create an index that demonstrates how developed a country is in terms of scientific research. 
 
 This index will combine both indicators showing support for R&D and the outcomes of that R&D to create a broader measure of development.
 
 The indicators that we will look at are the following:
 
-Inputs:
+**Inputs:**
 
-Research and development expenditure (% of GDP)
+	> - Research and development expenditure (% of GDP)
 
-Implied tax subsidy rates on R&D expenditures
+	> -  Implied tax subsidy rates on R&D expenditures
 
-Outcomes:
+**Outcomes:**
 
-Researchers in R&D (per million people)
+	> -  Researchers in R&D (per million people)
 
-Scientific and technical journal articles (per 1000 people)
+	> -  Scientific and technical journal articles (per 1000 people)
 
  
 
-Assumptions:
+**Assumptions:**
 
 *We are assuming that a large proportion of R&D is going towards scientific-based projects.
 
  
 
-Limitations:
+**Limitations:**
 
 Not every country provides data for these indicators
 
@@ -34,7 +36,7 @@ There are not many indicators directly linked to science. We have to take a broa
 
  
 
-Sources:
+**Sources:**
 
 World Bank & the OECD
 
