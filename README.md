@@ -1,4 +1,4 @@
-** Project-2 Data collecting and storage **
+**Project-2 Data collecting and storage**
 
 We want to create an index that demonstrates how developed a country is in terms of scientific research. 
 
@@ -8,15 +8,15 @@ The indicators that we will look at are the following:
 
 **Inputs:**
 
-	> - Research and development expenditure (% of GDP)
+	>Research and development expenditure (% of GDP)
 
-	> -  Implied tax subsidy rates on R&D expenditures
+	>Implied tax subsidy rates on R&D expenditures
 
 **Outcomes:**
 
-	> -  Researchers in R&D (per million people)
+	>Researchers in R&D (per million people)
 
-	> -  Scientific and technical journal articles (per 1000 people)
+	>Scientific and technical journal articles (per 1000 people)
 
  
 
