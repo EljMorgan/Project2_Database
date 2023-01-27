@@ -50,57 +50,57 @@
 48,FRA,France,2016,0.43
 49,FRA,France,2017,0.43
 50,FRA,France,2018,0.43
-51,USA,United States,2002,0.09
-52,USA,United States,2003,0.09
-53,USA,United States,2004,0.08
-54,USA,United States,2005,0.08
-55,USA,United States,2006,0.06
-56,USA,United States,2007,0.06
-57,USA,United States,2008,0.07
-58,USA,United States,2009,0.06
-59,USA,United States,2010,0.06
-60,USA,United States,2011,0.06
-61,USA,United States,2012,0.06
-62,USA,United States,2013,0.06
-63,USA,United States,2014,0.06
-64,USA,United States,2015,0.06
-65,USA,United States,2016,0.06
-66,USA,United States,2017,0.06
-67,USA,United States,2018,0.07
-68,ROU,Romania,2002,-0.02
-69,ROU,Romania,2003,-0.02
-70,ROU,Romania,2004,-0.02
-71,ROU,Romania,2005,-0.01
-72,ROU,Romania,2006,-0.01
-73,ROU,Romania,2007,-0.01
-74,ROU,Romania,2008,-0.01
-75,ROU,Romania,2009,-0.01
-76,ROU,Romania,2010,0.08
-77,ROU,Romania,2011,0.08
-78,ROU,Romania,2012,0.08
-79,ROU,Romania,2013,0.08
-80,ROU,Romania,2014,0.08
-81,ROU,Romania,2015,0.08
-82,ROU,Romania,2016,0.08
-83,ROU,Romania,2017,0.08
-84,ROU,Romania,2018,0.08
-85,DEU,Germany,2002,-0.03
-86,DEU,Germany,2003,-0.04
-87,DEU,Germany,2004,-0.03
-88,DEU,Germany,2005,-0.03
-89,DEU,Germany,2006,-0.03
-90,DEU,Germany,2007,-0.03
-91,DEU,Germany,2008,-0.02
-92,DEU,Germany,2009,-0.02
-93,DEU,Germany,2010,-0.02
-94,DEU,Germany,2011,-0.02
-95,DEU,Germany,2012,-0.02
-96,DEU,Germany,2013,-0.02
-97,DEU,Germany,2014,-0.02
-98,DEU,Germany,2015,-0.02
-99,DEU,Germany,2016,-0.02
-100,DEU,Germany,2017,-0.02
-101,DEU,Germany,2018,-0.02
+51,ROU,Romania,2002,-0.02
+52,ROU,Romania,2003,-0.02
+53,ROU,Romania,2004,-0.02
+54,ROU,Romania,2005,-0.01
+55,ROU,Romania,2006,-0.01
+56,ROU,Romania,2007,-0.01
+57,ROU,Romania,2008,-0.01
+58,ROU,Romania,2009,-0.01
+59,ROU,Romania,2010,0.08
+60,ROU,Romania,2011,0.08
+61,ROU,Romania,2012,0.08
+62,ROU,Romania,2013,0.08
+63,ROU,Romania,2014,0.08
+64,ROU,Romania,2015,0.08
+65,ROU,Romania,2016,0.08
+66,ROU,Romania,2017,0.08
+67,ROU,Romania,2018,0.08
+68,DEU,Germany,2002,-0.03
+69,DEU,Germany,2003,-0.04
+70,DEU,Germany,2004,-0.03
+71,DEU,Germany,2005,-0.03
+72,DEU,Germany,2006,-0.03
+73,DEU,Germany,2007,-0.03
+74,DEU,Germany,2008,-0.02
+75,DEU,Germany,2009,-0.02
+76,DEU,Germany,2010,-0.02
+77,DEU,Germany,2011,-0.02
+78,DEU,Germany,2012,-0.02
+79,DEU,Germany,2013,-0.02
+80,DEU,Germany,2014,-0.02
+81,DEU,Germany,2015,-0.02
+82,DEU,Germany,2016,-0.02
+83,DEU,Germany,2017,-0.02
+84,DEU,Germany,2018,-0.02
+85,GBR,United Kingdom,2002,0.1
+86,GBR,United Kingdom,2003,0.1
+87,GBR,United Kingdom,2004,0.1
+88,GBR,United Kingdom,2005,0.1
+89,GBR,United Kingdom,2006,0.1
+90,GBR,United Kingdom,2007,0.1
+91,GBR,United Kingdom,2008,0.11
+92,GBR,United Kingdom,2009,0.11
+93,GBR,United Kingdom,2010,0.11
+94,GBR,United Kingdom,2011,0.09
+95,GBR,United Kingdom,2012,0.09
+96,GBR,United Kingdom,2013,0.09
+97,GBR,United Kingdom,2014,0.09
+98,GBR,United Kingdom,2015,0.1
+99,GBR,United Kingdom,2016,0.1
+100,GBR,United Kingdom,2017,0.1
+101,GBR,United Kingdom,2018,0.11
 102,MLT,Malta,2002,0.07
 103,MLT,Malta,2003,0.22
 104,MLT,Malta,2004,0.22
